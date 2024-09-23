@@ -1,7 +1,7 @@
 # pavankumar
 
 # 💫 About Me:
-🔭 I’m a Fresher<br>👯 I’m looking to collaborate with company to test my skills<br>🌱 I’m currently learning Springboot<br>💬 Ask me about Myself<br>⚡ I am workholic
+🔭 I’m a Fresher<br>👯 I’m looking to collaborate with company to test my skills<br>💬 Ask me about Myself<br>⚡ I am workholic
 
 
 ## 🌐 Socials:
